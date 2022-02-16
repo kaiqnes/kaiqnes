@@ -17,6 +17,8 @@ I'm Caique Nunes, an "IT Guy" since 2011, and as a Software Developer since 2017
 - **Golang** *(Gin, UpperDB, GORM)*
 - **Java** *(Java 8, Java 11, Spring)*
 - **NodeJS** *(Express)*
+- **Testings** *(Unit test, Integration test)*
+- **Documentation** *(Swagger, Postman docs)*
 - **Relational Databases** *(MySQL, MariaDB, MSSQL, Postgres)*
 - **Non-Relational Databases** *(MongoDB)*
 - **Cache** *(Redis, Memcached)*
