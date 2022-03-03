@@ -24,7 +24,7 @@ I'm Caique Nunes, an "IT Guy" since 2011, and as a Software Developer since 2017
 - **RESTful API building and integrations**
 
 ### Human languages:
-- **Portuguese** *(Native)*;
+- **Portuguese** *(Native - Brazilian Portuguese)*;
 - **English** *(B2)*;
 - **Spanish** *(A2)*;
 
