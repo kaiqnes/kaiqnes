@@ -5,7 +5,7 @@
 
 
 # Hello there ✌️😎 
-I'm Caique Nunes, an "IT Guy" since 2011, and as a Software Developer since 2017. I had the opportunity to work with banks, credit card companies and e-commerce platforms, resulting in an experienced Backend Developer.
+I'm Caique Nunes from Brazil, an "IT Guy" since 2011, and as a Software Developer since 2017. I had the opportunity to work with banks, credit card companies and e-commerce platforms, resulting in an experienced Backend Developer.
 
 ### Experience with:
 - **Golang** *(Gin, UpperDB, GORM)*
