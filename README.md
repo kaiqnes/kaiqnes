@@ -11,12 +11,12 @@ I'm Caique Nunes from Brazil, an "IT Guy" since 2011, and as a Software Develope
 - **Golang** *(Gin, UpperDB, GORM)*
 - **Java** *(Java 8, Java 11, Spring)*
 - **NodeJS** *(Express)*
-- **Testings** *(Unit test: gomock, jUnit, Chai & Mocha; Integration test: Postman newman)*
+- **Testings** *(Unit test: gomock, testify, jUnit, Chai & Mocha; Integration test: Postman newman)*
 - **Documentation** *(Swagger, Postman docs)*
-- **Relational Databases** *(MySQL, MSSQL, Postgres)*
+- **Relational Databases** *(Postgres, MySQL, MSSQL)*
 - **Non-Relational Databases** *(MongoDB)*
 - **Cache** *(Redis, Memcached)*
-- **Cloud** *(Azure, Google Cloud)*
+- **Cloud** *(Google Cloud, Azure)*
 - **Artificial Intelligence and Bots** *(IBM Watson Assistant, Microsoft Luis, Amazon Alexa, Google Assistant)*
 - **Versioning Tools** *(GIT, SVN)*
 - **Design patterns**
